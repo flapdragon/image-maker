@@ -1,0 +1,1 @@
+auth_token = "this_is_where_you_put_your_token_i_don't_know_how_to_do_.env_type_stuff_in_python"
